@@ -1,0 +1,84 @@
+﻿body {
+    height:610px;
+    margin: 0px;
+    background-color: #c6c8ea;
+}
+
+.Principal {
+    margin-top: 10px;
+    margin-left: 10px;
+    border-style: solid;
+    width: 1000px;
+    height: 682px;
+    padding-top: 10px;
+
+}
+
+.letras {
+    font-size: 20px;
+    font-weight: bold;
+    color: #368594;
+    
+}
+
+
+
+input {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top:3px;
+    margin-bottom:4px;
+}
+
+div {
+    float: left;
+    margin-left:10px;
+}
+
+.DadosContato {
+    border-style: solid;
+    border-color: #368594;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.combo {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    
+
+
+}
+
+.is {
+    width: 1000px;
+    color: #368594;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: auto;
+    margin-bottom:20px;
+    font-weight: bold;
+}
+
+.checkbox {
+    color: #368594;
+}
+
+.CampoTextoObs {
+
+    margin-top: 5px;
+    width: 370px;
+    height: 100px;
+}
+
+.botao {
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #368594;
+    height:45px;
+    width:100px;
+    
+}

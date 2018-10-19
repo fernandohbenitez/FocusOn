@@ -1,0 +1,8 @@
+﻿
+Primeira dica:
+Existe um site para pegar css pronto e componentes prontos também
+https://bootsnipp.com/tags
+
+Segunda dica:
+Baixar o github e instalar no seu visual studio
+https://visualstudio.github.com/

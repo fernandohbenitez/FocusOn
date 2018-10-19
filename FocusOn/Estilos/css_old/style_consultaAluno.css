@@ -1,0 +1,42 @@
+﻿body {
+    height: 610px;
+    margin: 0px;
+    background-color: #c6c8ea;
+}
+.filtro {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right:auto;
+    border-style: solid;
+    padding-top: 10px;
+
+    
+}
+
+.botao {
+    font-size: 15px;
+    font-weight: bold;
+    background-color: #368594;
+    height: 30px;
+    width: 80px;
+padding-left=50px;
+
+}
+
+.letras {
+    font-size: 20px;
+    font-weight: bold;
+    color: #368594;
+}
+input {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 3px;
+    margin-bottom: 4px;
+}
+.combo {
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+}

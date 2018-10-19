@@ -1,0 +1,81 @@
+body {
+    height: 500px;
+    min-height: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: #c6c8ea;
+    
+}
+.menu {
+    height: 100%;
+    width: 200px;
+    background-color: #444;
+    float:left;
+}
+
+
+.logo img {
+	margin-top: 20px;
+	width: 200px;
+
+}
+
+
+.menuint ul{
+	padding-left: 0;
+	line-height: 35px;
+
+}
+
+.menuint ul li {
+	font-size: 20px;
+	color: white;
+	list-style: none;
+	padding-top: 10px;
+	
+}
+.menuint ul li:hover {
+background-color: #555;
+}
+.menuint ul img{
+	float: left;
+	padding-top: 10px;
+	padding-right:  10px;
+	padding-left:  10px;
+	opacity: 0.3;
+}
+.menu li:hover .submenu{
+	display: block;
+}
+.menu a{
+	color: white;
+	text-decoration:  none;	/*Retirando grifado*/
+}
+.submenu{
+
+	width: 200px;
+
+	background-color: #444;
+	margin-top: -45px;
+	position: absolute;
+	margin-left: 200px;
+	display: none
+} 
+.submenuitem{
+	width: 200px;
+	padding-top: 0px;
+	line-height: 47px;
+	background-color: #444;
+	padding-left: 0px;
+}
+.submenuitem:hover{
+
+background-color: #555;
+}
+.teste {
+    height: 400px;
+    width: 85%;
+    background-color: green;
+    float:left;
+    display:none;
+}
